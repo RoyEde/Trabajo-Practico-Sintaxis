@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524746405 source:c:\users\martin\desktop\sintaxis\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1524885028 source:c:\users\roy - work\desktop\trabajo-practico-sintaxis\sintaxis-hartzstein-kirjner\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1524886494 source:c:\users\roy - work\desktop\trabajo-practico-sintaxis\sintaxis-trabajo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
